@@ -1,5 +1,6 @@
 # The essential functions are all still available. This list only contains domains that can be blocked without any major loss of functionality.
 # The domains in this list were captured while playing games from the publisher Voodoo.
+# We blocked as many domains as necessary until we no longer saw any advertising in the game.
 
 o-sdk.mediation.unity3d.com
 adn-collector.voodoo-tech.io
