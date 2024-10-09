@@ -1,0 +1,10 @@
+# The essential functions are all still available. This list only contains domains that can be blocked without any major loss of functionality.
+
+video-akpcw-cdn-spotify-com.akamaized.net
+aet.spotify.com
+pickasso.spotifycdn.com
+image-cdn-ak.spotifycdn.com
+audio-ak-spotify-com.akamaized.net
+api-partner.spotify.com
+a1520.dscc.akamai.net
+heads-fa-tls13.spotifycdn.com
