@@ -1,0 +1,20 @@
+# The essential functions are all still available. This list only contains domains that can be blocked without any major loss of functionality.
+# The domains in this list were captured while playing games from the publisher Voodoo.
+
+o-sdk.mediation.unity3d.com
+adn-collector.voodoo-tech.io
+o-adq.mediation.unity3d.com
+dfxieqnfwzpl3.cloudfront.net
+o.isx.unity3d.com
+o-iab.mediation.unity3d.com
+hbevents.mz.unity3d.com
+ae.iads.unity3d.com
+o.iads.unity3d.com
+w.isx.unity3d.com
+events.ads.vungle.com
+o-pxt.iads.unity3d.com
+vg-new-hb-bid-feedback.mtgglobals.com
+d.lazybumblebee.com
+us01.mtgglobals.com
+adx-tk.mtgglobals.com
+vg-new-ssplib-hb.rayjump.com
