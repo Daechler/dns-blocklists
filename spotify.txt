@@ -1,4 +1,5 @@
 # The essential functions are all still available. This list only contains domains that can be blocked without any major loss of functionality.
+# This list does NOT block ads during song playback.
 
 video-akpcw-cdn-spotify-com.akamaized.net
 aet.spotify.com
