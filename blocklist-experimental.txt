@@ -1,0 +1,6 @@
+# Ads and Trackers
+
+api-partners.kindred.co
+cdn.kindred.co
+app.hyperise.io
+sdk.kindred.co
